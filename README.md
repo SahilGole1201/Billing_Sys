@@ -14,3 +14,5 @@ The Billing System is a Python-based application designed to streamline the bill
 - **ReportLab**: A library for creating PDFs in Python.
 - **smtplib**: A built-in Python module for sending emails using the Simple Mail Transfer Protocol (SMTP).
 - **Twilio**: A cloud communications platform that enables SMS messaging.
+  
+© 2024 Sahil Gole. All rights reserved.
