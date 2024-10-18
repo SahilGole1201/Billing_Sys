@@ -47,13 +47,13 @@ pdf.build([title, table])
 # --------------- Sender's Credentials (Hardcoded) ---------------
 
 # Email credentials (Sender's info)
-sender_email = "sg1201333@gmail.com"
-sender_password = "bsot nqhz jkqh dapa"  # Use an app-specific password if necessary
+sender_email = "xyz3@gmail.com"
+sender_password = "aaa bbb ccc ddd"  # Use an app-specific password if necessary
 
 # Twilio credentials (Sender's info)
-account_sid = "ACd197ef3b909e5d0dde038b9162f15cca"
-auth_token = "40727956885535d10489bec60200d5a0"
-twilio_number = "+14253827123"  # Your Twilio phone number
+account_sid = "Add sid"
+auth_token = "Add Token"
+twilio_number = "Add Number"  # Your Twilio phone number
 
 # --------------- Get Customer's Email and Mobile Number ---------------
 
